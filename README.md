@@ -29,7 +29,7 @@
 <table align="center" width="100%">
 <tr border="none">
 <td width="45%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisulaRap&show_icons=true&locale=en&theme=dark" alt="nisulaRap" />   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nisulaRap&show_icons=true&locale=en&theme=dark&langs_count=10" alt="nisulaRap" />   
 </td>
   
 <td width="55%" align="center">
