@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisula Premaratne</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nisulaRap&label=Profile%20views&color=0e75b6&style=flat" alt="nisulaRap" /> </p>
-
 - 🌱 I’m currently learning **Android and MERN**
 
 - 💬 Ask me about **Web and Java**
