@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nisula Premaratne</h1>
 
-- 🌱 I’m currently learning **Android and MERN**
+<!-- - 🌱 I’m currently learning **Android and MERN**
 
 - 💬 Ask me about **Web and Java**
 
-- 📫 How to reach me **nisula.rap@gmail.com**
+- 📫 How to reach me **nisula.rap@gmail.com** 
 
----
+--- -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
